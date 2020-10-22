@@ -7,3 +7,4 @@
 - [RESUMEN DIASPOSITIVAS](https://github.com/Magaly20/Mineria_De_Datos/blob/master/Resumen_1823340.pdf)
 - [MAPA MENTAL II](https://share.ayoa.com/mindmaps/cac5d6a2-f326-4ebf-8e7e-cd1cb241d903)
 - [EJERCICIO BASES DE DATOS](https://github.com/Magaly20/Mineria_De_Datos/blob/master/Analisis_BD_1823340.pdf)
+- [EJERCICIOS BASICOS PYHTON](https://github.com/Magaly20/Mineria_De_Datos/blob/master/MIND_ETAPA2_EJERCICIOS_21_OCT_2020_MRV_1823340.ipynb)
