@@ -9,3 +9,5 @@
 - [EJERCICIO BASES DE DATOS](https://github.com/Magaly20/Mineria_De_Datos/blob/master/Analisis_BD_1823340.pdf)
 - [EJERCICIOS BASICOS PYHTON](https://github.com/Magaly20/Mineria_De_Datos/blob/master/MIND_ETAPA2_EJERCICIOS_21_OCT_2020_MRV_1823340.ipynb)
 - [PRIMER AVANCE PROYECTO](https://github.com/melslzr/Mineria-de-datos/blob/master/Avance1-PIA_5_002.pdf)
+- [VISUALIZACION_DATOS](https://github.com/melslzr/Mineria-de-datos/blob/master/Visualizaci%C3%B3n.ipynb)
+-[LIMPIEZA DATOS](https://github.com/melslzr/Mineria-de-datos/blob/master/Limpieza.ipynb)
