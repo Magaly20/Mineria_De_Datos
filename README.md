@@ -12,4 +12,5 @@
 - [VISUALIZACION_DATOS](https://github.com/melslzr/Mineria-de-datos/blob/master/Visualizaci%C3%B3n.ipynb)
 - [LIMPIEZA DATOS](https://github.com/melslzr/Mineria-de-datos/blob/master/Limpieza.ipynb)
 - [SEGUNDO AVANCE PROYECTO](https://github.com/mariannavila/FCFM/blob/master/AvancePIA_II_002_5.ipynb)
+- [POSTER OFICIAL](https://github.com/melslzr/Mineria-de-datos/blob/master/PIA_Poster_05.pdf)
 
